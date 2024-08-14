@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "Добавить в Things 3"
+    },
+    "desc": {
+        "message": "Добавляет любую страницу в менеджер задач Things 3"
+    },
+    "title": {
+        "message": "Добавить в Things 3"
+    }
+}
