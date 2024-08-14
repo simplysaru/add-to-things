@@ -3,7 +3,7 @@
   "name": "__MSG_name__",
   "description": "__MSG_desc__",
   "version": "1.0",
-  "homepage_url": "https://simplysaru.com/",
+  "homepage_url": "https://github.com/simplysaru/add-to-things",
   "default_locale": "en",
   "icons": {
     "16": "images/icon-16.png",
