@@ -4,6 +4,8 @@ Adds currently opened page to [Things 3](http://culturedcode.com/things/) task m
 
 Compatible with Dark Mode and dark themes.
 
+Install the extension on your chrome browser from [here](https://chromewebstore.google.com/detail/add-to-things-3/eeghakjpbmnmphbnbffghocjldpojgal)
+
 ## Privacy 
  
  No information is collected. The text and URL captured are processed on your device and is never transmitted anywhere outside your browser and your Things APP.
