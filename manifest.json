@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "__MSG_name__",
   "description": "__MSG_desc__",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "https://github.com/simplysaru/add-to-things",
   "default_locale": "en",
   "icons": {
