@@ -19,4 +19,4 @@ Install the extension on your Firefox browser from [here](https://addons.mozilla
 ![Add to Things 3 in Chrome (Light Mode)](pictures/chrome-light.png)
 
 ---
-Licensed under MIT License. Forked from [KristofferR](https://github.com/kristofferR/add-to-things-3).
+Licensed under MIT License. Forked from [KristofferR](https://github.com/kristofferR/add-to-things-3). Also, thanks to [Cheapeone](https://github.com/cheapeone) for the major code refactoring.
